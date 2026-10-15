@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "more_pistons",
+	"version": "${version}",
+	"name": "More Pistons",
+	"description": "Adds more pistons to Minecraft.",
+	"authors": [
+		"HersheyLightning"
+	],
+	"contact": {
+		"homepage": "https://hersheylightning.com",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/more_pistons/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.hersh.more_pistons.MorePistons"
+		]
+	},
+	"mixins": [
+		"more_pistons.mixins.json"
+	],
+	"accessWidener": "more_pistons.classtweaker",
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}

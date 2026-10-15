@@ -1,0 +1,4 @@
+classTweaker v2 named
+inject-interface net/minecraft/block/entity/PistonBlockEntity com/hersh/more_pistons/util/PistonBlockEntityExtensions
+inject-interface net/minecraft/block/piston/PistonHandler com/hersh/more_pistons/util/PistonHandlerExtensions
+extend-enum net/minecraft/block/enums/PistonType HONEY

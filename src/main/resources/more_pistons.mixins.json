@@ -1,0 +1,21 @@
+{
+  "required": true,
+  "package": "com.hersh.more_pistons.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PistonBlockEntityMixin",
+    "PistonBlockMixin",
+    "PistonHandlerMixin",
+    "PistonHeadBlockMixin",
+    "PistonTypeMixin"
+  ],
+  "client": [
+    "PistonBlockEntityRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

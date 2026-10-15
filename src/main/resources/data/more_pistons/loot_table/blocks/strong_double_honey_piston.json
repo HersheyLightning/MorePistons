@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "more_pistons:strong_double_honey_piston"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "more_pistons:blocks/strong_double_honey_piston"
+}

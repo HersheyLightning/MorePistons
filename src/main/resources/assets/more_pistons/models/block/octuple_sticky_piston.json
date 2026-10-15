@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_piston",
+  "textures": {
+    "bottom": "more_pistons:block/octuple_piston_bottom",
+    "platform": "minecraft:block/piston_top_sticky",
+    "side": "more_pistons:block/octuple_piston_side"
+  }
+}

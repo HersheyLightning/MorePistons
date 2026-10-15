@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "more_pistons:block/sextuple_piston_bottom",
+    "side": "more_pistons:block/sextuple_piston_side",
+    "top": "more_pistons:block/piston_top_honey"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "more_pistons:strong_septuple_piston"
+    },
+    "H": {
+      "item": "minecraft:honey_bottle"
+    }
+  },
+  "pattern": [
+    "H",
+    "P"
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_pistons:strong_septuple_honey_piston"
+  }
+}

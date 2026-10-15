@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:piston",
+    "more_pistons:double_piston",
+    "more_pistons:triple_piston",
+    "more_pistons:quadruple_piston",
+    "more_pistons:quintuple_piston",
+    "more_pistons:sextuple_piston",
+    "more_pistons:septuple_piston",
+    "more_pistons:octuple_piston",
+    "more_pistons:smart_piston",
+    "more_pistons:strong_piston",
+    "more_pistons:strong_double_piston",
+    "more_pistons:strong_triple_piston",
+    "more_pistons:strong_quadruple_piston",
+    "more_pistons:strong_quintuple_piston",
+    "more_pistons:strong_sextuple_piston",
+    "more_pistons:strong_septuple_piston",
+    "more_pistons:strong_octuple_piston",
+    "more_pistons:strong_smart_piston"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "more_pistons:strong_double_piston"
+    },
+    "T": {
+      "tag": "minecraft:planks"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "pattern": [
+    "TTT",
+    " X ",
+    " P "
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_pistons:strong_triple_piston"
+  }
+}

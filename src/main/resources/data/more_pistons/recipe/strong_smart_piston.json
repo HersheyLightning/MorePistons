@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "T": {
+      "tag": "minecraft:planks"
+    },
+    "P": {
+      "item": "more_pistons:strong_octuple_piston"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "QRQ",
+    "#P#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "more_pistons:strong_smart_piston"
+  }
+}

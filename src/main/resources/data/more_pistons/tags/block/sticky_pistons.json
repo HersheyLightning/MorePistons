@@ -1,0 +1,22 @@
+{
+  "values": [
+    "minecraft:sticky_piston",
+    "more_pistons:double_sticky_piston",
+    "more_pistons:triple_sticky_piston",
+    "more_pistons:quadruple_sticky_piston",
+    "more_pistons:quintuple_sticky_piston",
+    "more_pistons:sextuple_sticky_piston",
+    "more_pistons:septuple_sticky_piston",
+    "more_pistons:octuple_sticky_piston",
+    "more_pistons:smart_sticky_piston",
+    "more_pistons:strong_sticky_piston",
+    "more_pistons:strong_double_sticky_piston",
+    "more_pistons:strong_triple_sticky_piston",
+    "more_pistons:strong_quadruple_sticky_piston",
+    "more_pistons:strong_quintuple_sticky_piston",
+    "more_pistons:strong_sextuple_sticky_piston",
+    "more_pistons:strong_septuple_sticky_piston",
+    "more_pistons:strong_octuple_sticky_piston",
+    "more_pistons:strong_smart_sticky_piston"
+  ]
+}
